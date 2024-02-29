@@ -4,7 +4,6 @@ Plugin Name: Display Shipping Class
 Description: Display shipping class in product page
 Version: 1.0.0
 Author: Vladimir
-Author URI: SlapiosNosys.lt
 */
 
 /* Display the shipping class on the product page.
